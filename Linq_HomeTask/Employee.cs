@@ -11,5 +11,9 @@ namespace Linq_HomeTask
         public string LastName { get; set; }
         public int Age { get; set; }
         public int DepId { get; set; }
+        public override string ToString()
+        {
+            return $"{FirstName, 10} {LastName,8}    Age: {Age}";
+        }
     }
 }

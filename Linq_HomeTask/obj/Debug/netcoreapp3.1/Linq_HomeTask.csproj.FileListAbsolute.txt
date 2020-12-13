@@ -1,0 +1,13 @@
+D:\GitHub\ProjectsC#\Linq_HomeTask\Linq_HomeTask\bin\Debug\netcoreapp3.1\Linq_HomeTask.exe
+D:\GitHub\ProjectsC#\Linq_HomeTask\Linq_HomeTask\bin\Debug\netcoreapp3.1\Linq_HomeTask.deps.json
+D:\GitHub\ProjectsC#\Linq_HomeTask\Linq_HomeTask\bin\Debug\netcoreapp3.1\Linq_HomeTask.runtimeconfig.json
+D:\GitHub\ProjectsC#\Linq_HomeTask\Linq_HomeTask\bin\Debug\netcoreapp3.1\Linq_HomeTask.runtimeconfig.dev.json
+D:\GitHub\ProjectsC#\Linq_HomeTask\Linq_HomeTask\bin\Debug\netcoreapp3.1\Linq_HomeTask.dll
+D:\GitHub\ProjectsC#\Linq_HomeTask\Linq_HomeTask\bin\Debug\netcoreapp3.1\Linq_HomeTask.pdb
+D:\GitHub\ProjectsC#\Linq_HomeTask\Linq_HomeTask\obj\Debug\netcoreapp3.1\Linq_HomeTask.csprojAssemblyReference.cache
+D:\GitHub\ProjectsC#\Linq_HomeTask\Linq_HomeTask\obj\Debug\netcoreapp3.1\Linq_HomeTask.AssemblyInfoInputs.cache
+D:\GitHub\ProjectsC#\Linq_HomeTask\Linq_HomeTask\obj\Debug\netcoreapp3.1\Linq_HomeTask.AssemblyInfo.cs
+D:\GitHub\ProjectsC#\Linq_HomeTask\Linq_HomeTask\obj\Debug\netcoreapp3.1\Linq_HomeTask.csproj.CoreCompileInputs.cache
+D:\GitHub\ProjectsC#\Linq_HomeTask\Linq_HomeTask\obj\Debug\netcoreapp3.1\Linq_HomeTask.dll
+D:\GitHub\ProjectsC#\Linq_HomeTask\Linq_HomeTask\obj\Debug\netcoreapp3.1\Linq_HomeTask.pdb
+D:\GitHub\ProjectsC#\Linq_HomeTask\Linq_HomeTask\obj\Debug\netcoreapp3.1\Linq_HomeTask.genruntimeconfig.cache
